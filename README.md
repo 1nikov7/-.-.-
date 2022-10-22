@@ -26,3 +26,11 @@
 
 
 таблица умножения в пацтоне - таблица умножения для систем исчисления от двоичной до десятичной включительно в Python
+
+![VNteJoD](https://user-images.githubusercontent.com/114631813/197325694-d9ed8ff3-2551-4bec-b01e-35e97b0230e3.jpg)
+
+
+я на Codepen - https://codepen.io/1nikov7
+
+
+я на WordPress - https://nikovcom.wordpress.com/
