@@ -27,7 +27,9 @@
 
 таблица умножения в пацтоне - таблица умножения для систем исчисления от двоичной до десятичной включительно в Python
 
-![VNteJoD](https://user-images.githubusercontent.com/114631813/197325694-d9ed8ff3-2551-4bec-b01e-35e97b0230e3.jpg)
+
+![VNteJoD (2)](https://user-images.githubusercontent.com/114631813/197325777-0f7e0bf6-55a3-404a-80ae-8341993a3aee.jpg)
+
 
 
 я на Codepen - https://codepen.io/1nikov7
