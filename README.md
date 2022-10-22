@@ -35,4 +35,12 @@
 я на Codepen - https://codepen.io/1nikov7
 
 
+![Без названия](https://user-images.githubusercontent.com/114631813/197325919-344a6940-de08-4f76-99f6-c34be12d7c34.png)
+
+
+
 я на WordPress - https://nikovcom.wordpress.com/
+
+
+![blog](https://user-images.githubusercontent.com/114631813/197325927-b3d56132-953f-494a-956e-f522b1f5bcda.jpg)
+
