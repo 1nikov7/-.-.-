@@ -49,3 +49,6 @@
 
 
 ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114631813/198816965-8553f0ec-20ae-4491-8070-3890de525919.png)
+ 
+ 
+ $$(A\vee B)\wedge C = (A \wedge C) \vee  (B \wedge C)$$
