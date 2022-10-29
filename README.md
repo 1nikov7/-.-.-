@@ -48,4 +48,4 @@
 6) (A + B) * c = A * c + B * c
 
 
-![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114631813/198816910-b3a5b1c7-c9d7-49d8-9b9d-365e2116aa9d.png)
+![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114631813/198816965-8553f0ec-20ae-4491-8070-3890de525919.png)
