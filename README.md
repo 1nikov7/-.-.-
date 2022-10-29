@@ -44,3 +44,5 @@
 
 ![blog](https://user-images.githubusercontent.com/114631813/197325927-b3d56132-953f-494a-956e-f522b1f5bcda.jpg)
 
+
+6) (A + B)*c = A*c + B*c
