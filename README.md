@@ -54,9 +54,9 @@
  $$(A\vee B)\wedge C = (A \wedge C) \vee  (B \wedge C)$$
 
 
-$$\color{Green} \overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^{\frac{1}{2}}_1+\beta^{\frac{2}{3}}_1$$
+$$ \color{Green}\overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^{\frac{1}{2}}_1+\beta^{\frac{2}{3}}_1 $$
 
-$$\color{Green}E = mc^{2}$$
+$$ \color{Green}E = mc^{2} $$
 
 $$\color{Green}N = UIt$$
 
