@@ -52,3 +52,15 @@
  
  
  $$(A\vee B)\wedge C = (A \wedge C) \vee  (B \wedge C)$$
+
+
+$$\overline{E^{2}_{1}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^{\frac{1}{2}}_{1}+\beta^{\frac{2}{3}}_{1}$$
+
+
+$$E = mc^{2}$$
+
+
+$$N = UIt$$
+
+
+![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114631813/200982253-1f19671c-2531-49ee-84cf-08f90a216fdd.png)
