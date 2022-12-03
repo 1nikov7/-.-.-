@@ -61,3 +61,14 @@ $$ \color{Green}E = mc^{2} $$
 $$\color{Green}A = UIt$$
 
 ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114631813/200982253-1f19671c-2531-49ee-84cf-08f90a216fdd.png)
+
+
+
+
+
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
