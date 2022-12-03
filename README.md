@@ -67,8 +67,8 @@ $$\color{Green}A = UIt$$
 
 ```mermaid
 flowchart LR
-A[10 класс] -->|Text| B(атестация)
+A[10 класс] -->|атестация| B(11 класс)
 B --> C{егэ}
-C -->|One| D[ВУЗ
+C -->|One| D[ВУЗ]
 C -->|Two| E[Армия]
 ```
